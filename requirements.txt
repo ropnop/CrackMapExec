@@ -8,3 +8,5 @@ pyOpenSSL
 termcolor
 msgpack-python
 pylnk
+splinter
+selenium
